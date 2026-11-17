@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+requests
+deep-translator
+python-dotenv

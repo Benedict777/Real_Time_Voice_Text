@@ -1,0 +1,15 @@
+# Virtual muhit
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Maxfiy ma'lumotlar (GitHub'ga chiqmasin!)
+.env
+
+# Boshqa
+*.log
+.idea/
+.vscode/
